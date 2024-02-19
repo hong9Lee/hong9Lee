@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%20👋&fontAlign=80&fontAlignY=40&color=gradient&fontSize=40" alt="Hi there 👋" style="max-width: 100%;">
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
@@ -26,4 +28,5 @@
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> 	
  	<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" /> 	
   	<img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" /> 	
+</div>
 </div>
